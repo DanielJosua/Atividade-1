@@ -2,3 +2,8 @@
 -Git add 
 -Git commit
 -Git status
+-Git log
+-Git remote add origin
+-Git remote -v
+-Git push -u origin
+-Git pull
